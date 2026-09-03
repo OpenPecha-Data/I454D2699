@@ -1,0 +1,26 @@
+id: I454D2699
+initial_creation_type: ebook
+source_metadata:
+  id: BEN-LB-011
+  title: ༈ དྭགས་པོ་བཀྲ་ཤིས་རྣམ་རྒྱལ་གྱི་གསུང་སྔོན་འགྲོའི་རྩ་བར་འགྲེལ་བཤད་བློ་ཆོས་སུ་འགྲོ་བ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+    །།
+  author: མཛད་པ་པོ། དྭགས་པོ་བཀྲ་ཤིས་རྣམ་རྒྱལ།, འགྲེལ་བ་མཛད་པ་པོ། ༧སྐྱབས་རྗེ་གྲུབ་དབང་སངས་རྒྱས་མཉན་པ་རིན་པོ་ཆེ།
+  authors: &id001
+  - མཛད་པ་པོ། དྭགས་པོ་བཀྲ་ཤིས་རྣམ་རྒྱལ།
+  - འགྲེལ་བ་མཛད་པ་པོ། ༧སྐྱབས་རྗེ་གྲུབ་དབང་སངས་རྒྱས་མཉན་པ་རིན་པོ་ཆེ།
+  sku: BEN-LB-011
+  cover: Benchen_11th_Book_Cover.jpg
+  volume: {}
+ebook_metadata:
+  title: ༈ དྭགས་པོ་བཀྲ་ཤིས་རྣམ་རྒྱལ་གྱི་གསུང་སྔོན་འགྲོའི་རྩ་བར་འགྲེལ་བཤད་བློ་ཆོས་སུ་འགྲོ་བ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+    །།
+  authors: *id001
+  sku: BEN-LB-011
+  cover: Benchen_11th_Book_Cover.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Tsawa
